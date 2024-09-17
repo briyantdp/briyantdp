@@ -9,7 +9,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=briyantdp&theme=tokyonight)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=briyantdp)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=briyantdp&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## :hammer_and_wrench: Languages and Tools :
