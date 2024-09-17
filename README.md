@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-**briyantdp/briyantdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just noob programmer who always learn about Web & Mobile Development. Never stop learning
 
 ## :bar_chart: My Github Stats :
 ![Bryant Dawson Priyantoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=briyantdp&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briyantdp&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
