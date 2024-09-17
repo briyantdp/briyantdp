@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="40" height="40"/>
 </div>
 
-<h3 align="left">Connect with me:</h3>
+## :telephone: Connect With Me :
 <p align="left">
   <a href="https://www.facebook.com/bryantdp7" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="" height="30" width="40" style="background-color: white" /></a>
   <a href="https://www.linkedin.com/in/bryant-dawson-priyantoro/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" style="background-color: white" /></a>
