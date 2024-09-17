@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briyantdp&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   
   ### :hammer_and_wrench: Programming Language :
