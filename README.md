@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 
    ### :hammer_and_wrench: Mobile Dev :
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React Native" width="40" height="40"/>&nbsp;
 
    ### :hammer_and_wrench: Back End :
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
