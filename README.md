@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=briyantdp&theme=tokyonight)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briyantdp&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   
@@ -63,6 +65,5 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/bryantdp7" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="" height="30" width="40" style="background-color: white" /></a>
-  <a href="your link" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" style="background-color: white" /></a>
-  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" style="background-color: white" /></a>
+  <a href="https://www.linkedin.com/in/bryant-dawson-priyantoro/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" style="background-color: white" /></a>
 </p>
