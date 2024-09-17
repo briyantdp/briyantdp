@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Bryant Dawson Priyantoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=briyantdp&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+![Bryant Dawson Priyantoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=briyantdp&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&locale=id)
